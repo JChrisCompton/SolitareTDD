@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Jfh6TPNTyPcC8iiV/t4aiUxH8DgmfXHz9i2n5mJ3knIyfNKOq4YEhRfyqfakvGQcRuRk3XyKF3l36nIcPr6PA==",
+  "success": true,
+  "projectFilePath": "C:\\Temp\\TDD\\SolitaireLibrary\\SolitaireLibrary.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://dpfm0401v:133/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
