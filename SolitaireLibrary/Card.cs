@@ -2,9 +2,7 @@
 {
     public class Card
     {
-        
-        
-
+        //Updating and commit from VS Code
         public Card(int value, SuitType suit, bool faceup = false)
         {
             Value = value;
