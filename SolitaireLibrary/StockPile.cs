@@ -1,21 +1,15 @@
 ﻿namespace SolitaireLibrary
 {
-    public class StockPile : iPile
+    public class StockPile : Pile
     {
         public StockPile()
         {
             CardList = new List<Card>();
         }
 
-        public List<Card> CardList { get; set; }
-
-        public bool AddCard(Card card)
+        override public bool AddCard(Card card)
         {
-            if (card.isFaceUp) return false;
-
-            CardList.Add(card);
-            return true;
-
+            return false;
         }
 
     }
