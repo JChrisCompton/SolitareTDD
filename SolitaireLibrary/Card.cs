@@ -4,7 +4,7 @@
     {
         
         
-        //Playcard Object
+
         public Card(int value, SuitType suit, bool faceup = false)
         {
             Value = value;
