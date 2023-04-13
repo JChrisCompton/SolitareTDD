@@ -18,7 +18,12 @@ namespace SolitaireTests
             Deck deck = new Deck();
             Assert.IsNotNull(deck);
             Assert.AreEqual(deck.Cards.Count, 52);
-            
+            for (int i = 0; i < deck.Cards.Count; i++)
+            {
+                Console.WriteLine($"Ordinance: {deck.Cards[i].Value} Suit: {deck.Cards[i].Suit}");
+            }
+
+
         }
         [TestMethod]
         public void CardsInTheDeckShouldBeUnique()
