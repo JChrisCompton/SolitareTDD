@@ -34,3 +34,15 @@ C:\Temp\TDD\SolitaireLibrary\obj\Debug\net6.0\SolitaireLibrary.dll
 C:\Temp\TDD\SolitaireLibrary\obj\Debug\net6.0\refint\SolitaireLibrary.dll
 C:\Temp\TDD\SolitaireLibrary\obj\Debug\net6.0\SolitaireLibrary.pdb
 C:\Temp\TDD\SolitaireLibrary\obj\Debug\net6.0\ref\SolitaireLibrary.dll
+C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireLibrary\bin\Debug\net6.0\SolitaireLibrary.deps.json
+C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireLibrary\bin\Debug\net6.0\SolitaireLibrary.dll
+C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireLibrary\bin\Debug\net6.0\SolitaireLibrary.pdb
+C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireLibrary\obj\Debug\net6.0\SolitaireLibrary.csproj.AssemblyReference.cache
+C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireLibrary\obj\Debug\net6.0\SolitaireLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireLibrary\obj\Debug\net6.0\SolitaireLibrary.AssemblyInfoInputs.cache
+C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireLibrary\obj\Debug\net6.0\SolitaireLibrary.AssemblyInfo.cs
+C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireLibrary\obj\Debug\net6.0\SolitaireLibrary.csproj.CoreCompileInputs.cache
+C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireLibrary\obj\Debug\net6.0\SolitaireLibrary.dll
+C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireLibrary\obj\Debug\net6.0\refint\SolitaireLibrary.dll
+C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireLibrary\obj\Debug\net6.0\SolitaireLibrary.pdb
+C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireLibrary\obj\Debug\net6.0\ref\SolitaireLibrary.dll

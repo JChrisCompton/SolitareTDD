@@ -8,26 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\s26778d\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Users\\s40347n\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Temp\\TDD\\SolitaireLibrary\\SolitaireLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\s40347n\\source\\repos\\TDD\\SolitareTDD\\SolitaireLibrary\\SolitaireLibrary.csproj",
       "projectName": "SolitaireLibrary",
-      "projectPath": "C:\\Temp\\TDD\\SolitaireLibrary\\SolitaireLibrary.csproj",
-      "packagesPath": "C:\\Users\\s26778d\\.nuget\\packages\\",
-      "outputPath": "C:\\Temp\\TDD\\SolitaireLibrary\\obj\\",
+      "projectPath": "C:\\Users\\s40347n\\source\\repos\\TDD\\SolitareTDD\\SolitaireLibrary\\SolitaireLibrary.csproj",
+      "packagesPath": "C:\\Users\\s40347n\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\s40347n\\source\\repos\\TDD\\SolitareTDD\\SolitaireLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\s26778d\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\s40347n\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -69,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   },
