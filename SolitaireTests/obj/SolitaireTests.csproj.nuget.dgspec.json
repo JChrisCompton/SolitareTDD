@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s40347n\\source\\repos\\TDD\\SolitareTDD\\SolitaireTests\\SolitaireTests.csproj": {}
+    "D:\\Code\\Source\\Repos\\SolitaireTests\\SolitaireTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s40347n\\source\\repos\\TDD\\SolitareTDD\\SolitaireLibrary\\SolitaireLibrary.csproj": {
+    "D:\\Code\\Source\\Repos\\SolitaireLibrary\\SolitaireLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s40347n\\source\\repos\\TDD\\SolitareTDD\\SolitaireLibrary\\SolitaireLibrary.csproj",
+        "projectUniqueName": "D:\\Code\\Source\\Repos\\SolitaireLibrary\\SolitaireLibrary.csproj",
         "projectName": "SolitaireLibrary",
-        "projectPath": "C:\\Users\\s40347n\\source\\repos\\TDD\\SolitareTDD\\SolitaireLibrary\\SolitaireLibrary.csproj",
-        "packagesPath": "C:\\Users\\s40347n\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s40347n\\source\\repos\\TDD\\SolitareTDD\\SolitaireLibrary\\obj\\",
+        "projectPath": "D:\\Code\\Source\\Repos\\SolitaireLibrary\\SolitaireLibrary.csproj",
+        "packagesPath": "C:\\Users\\jccom\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Source\\Repos\\SolitaireLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\s40347n\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jccom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://dpfm0401v:133/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,24 +59,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\s40347n\\source\\repos\\TDD\\SolitareTDD\\SolitaireTests\\SolitaireTests.csproj": {
+    "D:\\Code\\Source\\Repos\\SolitaireTests\\SolitaireTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s40347n\\source\\repos\\TDD\\SolitareTDD\\SolitaireTests\\SolitaireTests.csproj",
+        "projectUniqueName": "D:\\Code\\Source\\Repos\\SolitaireTests\\SolitaireTests.csproj",
         "projectName": "SolitaireTests",
-        "projectPath": "C:\\Users\\s40347n\\source\\repos\\TDD\\SolitareTDD\\SolitaireTests\\SolitaireTests.csproj",
-        "packagesPath": "C:\\Users\\s40347n\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s40347n\\source\\repos\\TDD\\SolitareTDD\\SolitaireTests\\obj\\",
+        "projectPath": "D:\\Code\\Source\\Repos\\SolitaireTests\\SolitaireTests.csproj",
+        "packagesPath": "C:\\Users\\jccom\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Source\\Repos\\SolitaireTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\s40347n\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jccom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -84,15 +85,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://dpfm0401v:133/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\s40347n\\source\\repos\\TDD\\SolitareTDD\\SolitaireLibrary\\SolitaireLibrary.csproj": {
-                "projectPath": "C:\\Users\\s40347n\\source\\repos\\TDD\\SolitareTDD\\SolitaireLibrary\\SolitaireLibrary.csproj"
+              "D:\\Code\\Source\\Repos\\SolitaireLibrary\\SolitaireLibrary.csproj": {
+                "projectPath": "D:\\Code\\Source\\Repos\\SolitaireLibrary\\SolitaireLibrary.csproj"
               }
             }
           }
@@ -142,7 +142,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
