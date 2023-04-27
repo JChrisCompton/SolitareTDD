@@ -1,9 +1,10 @@
 ﻿namespace SolitaireLibrary
 {
-    public class Deck
+    public class DeckPile
     {
         public List<Card> Cards { get; set; }
-        public Deck()
+
+        public DeckPile()
         {
             //Add comment for test Push
             Cards = new List<Card>();
@@ -12,6 +13,10 @@
                 for(int j = 1; j < 14; j++)
                 Cards.Add(new Card(j, (SuitType)i));
             }
+        }
+        public void Shuffle()
+        {
+            
         }
     }
 }

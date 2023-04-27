@@ -15,7 +15,7 @@ namespace SolitaireTests
         [TestMethod]
         public void DeckShouldBeCreated()
         {
-            Deck deck = new Deck();
+            DeckPile deck = new DeckPile();
             Assert.IsNotNull(deck);
             Assert.AreEqual(deck.Cards.Count, 52);
             for (int i = 0; i < deck.Cards.Count; i++)
@@ -28,8 +28,42 @@ namespace SolitaireTests
         [TestMethod]
         public void CardsInTheDeckShouldBeUnique()
         {
-            Deck deck = new Deck();
+            DeckPile deck = new DeckPile();
             Assert.IsFalse(deck.Cards.Count != deck.Cards.Distinct<Card>().Count());
+        }
+        [TestMethod]
+        public void DeckCanBeShuffled()
+        {
+            DeckPile deck1 = new DeckPile();
+            DeckPile deck2 = new DeckPile();
+            //deck2.Shuffle();
+
+            bool allCardsMatch = true;
+            if (deck1.Cards.Count == deck2.Cards.Count)
+            {
+
+                for (int i = 0; i < deck1.Cards.Count; i++)
+                {
+                    if (deck1.Cards[i].Value != deck2.Cards[i].Value
+                        || deck1.Cards[i].Suit != deck2.Cards[i].Suit)
+                    {
+                        allCardsMatch = false;
+                    }
+                    else
+                    {
+                        Console.WriteLine($"Ordinance: {deck1.Cards[i].Value} Suit: {deck1.Cards[i].Suit}"
+                            + " == " 
+                            + $"Ordinance: {deck2.Cards[i].Value} Suit: {deck2.Cards[i].Suit}");
+                    }
+                }
+
+            }
+            else
+            {
+                allCardsMatch = false;
+            }
+
+            Assert.IsFalse(allCardsMatch);
         }
     }
 }
