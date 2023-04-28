@@ -36,7 +36,7 @@ namespace SolitaireTests
         {
             DeckPile deck1 = new DeckPile();
             DeckPile deck2 = new DeckPile();
-            //deck2.Shuffle();
+            deck2.Shuffle();
 
             bool allCardsMatch = true;
             if (deck1.Cards.Count == deck2.Cards.Count)
@@ -48,6 +48,7 @@ namespace SolitaireTests
                         || deck1.Cards[i].Suit != deck2.Cards[i].Suit)
                     {
                         allCardsMatch = false;
+                        break;
                     }
                     else
                     {
