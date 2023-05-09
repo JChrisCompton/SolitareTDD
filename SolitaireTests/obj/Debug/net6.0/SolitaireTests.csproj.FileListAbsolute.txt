@@ -308,7 +308,6 @@ C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireTests\bin\Debug\net6.0\Co
 C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireTests\bin\Debug\net6.0\testhost.dll
 C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireTests\bin\Debug\net6.0\testhost.exe
 C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireTests\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
 C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireTests\bin\Debug\net6.0\SolitaireTests.deps.json
@@ -406,3 +405,16 @@ C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireTests\obj\Debug\net6.0\re
 C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireTests\obj\Debug\net6.0\SolitaireTests.pdb
 C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireTests\obj\Debug\net6.0\SolitaireTests.genruntimeconfig.cache
 C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireTests\obj\Debug\net6.0\ref\SolitaireTests.dll
+C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireTests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireTests\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireTests\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireTests\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireTests\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireTests\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireTests\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireTests\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireTests\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireTests\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireTests\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireTests\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\s40347n\source\repos\TDD\SolitareTDD\SolitaireTests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
