@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solitaire", "Solitaire.csproj", "{DC889414-D478-45ED-8AF2-E54AFAD55D53}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solitaire", "Solitaire.csproj", "{DC889414-D478-45ED-8AF2-E54AFAD55D53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolitaireTests", "..\SolitaireTests\SolitaireTests.csproj", "{2A44BDC5-BD29-4083-A760-07F79B0F44A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SolitaireTests", "..\SolitaireTests\SolitaireTests.csproj", "{2A44BDC5-BD29-4083-A760-07F79B0F44A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolitaireLibrary", "..\SolitaireLibrary\SolitaireLibrary.csproj", "{B4918F5B-1346-407D-8259-D3EA41048F31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SolitaireLibrary", "..\SolitaireLibrary\SolitaireLibrary.csproj", "{B4918F5B-1346-407D-8259-D3EA41048F31}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
