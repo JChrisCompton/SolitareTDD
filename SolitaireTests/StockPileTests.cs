@@ -36,5 +36,17 @@ namespace SolitaireTests
             }
             
         }
+        [TestMethod]
+        public void ShouldBeAbleToMoveCardFromStockToTalon()
+        {
+            GameBoard board = new GameBoard();
+            board.Stock.AddCard(new Card(7, SuitType.Heart, false));
+            Pile movePile = new Pile(); 
+            StockPile fromPile = new StockPile();
+            TalonPile toPile = new TalonPile(); 
+            board.Stock.Move(movePile, fromPile,  toPile);
+
+        }
+
     }
 }

@@ -12,5 +12,9 @@
             return false;
         }
 
+        public void Move(Pile movePile, Pile fromPile, Pile toPile)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
